@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\pryGarciaBiblioteca\pryGarciaBiblioteca\bin\Debug\pryGarciaBiblioteca.exe.config
+C:\Users\Usuario\Desktop\pryGarciaBiblioteca\pryGarciaBiblioteca\bin\Debug\pryGarciaBiblioteca.exe
+C:\Users\Usuario\Desktop\pryGarciaBiblioteca\pryGarciaBiblioteca\bin\Debug\pryGarciaBiblioteca.pdb
+C:\Users\Usuario\Desktop\pryGarciaBiblioteca\pryGarciaBiblioteca\obj\Debug\pryGarciaBiblioteca.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\pryGarciaBiblioteca\pryGarciaBiblioteca\obj\Debug\pryGarciaBiblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\pryGarciaBiblioteca\pryGarciaBiblioteca\obj\Debug\pryGarciaBiblioteca.FrmPrincipal.resources
+C:\Users\Usuario\Desktop\pryGarciaBiblioteca\pryGarciaBiblioteca\obj\Debug\pryGarciaBiblioteca.frmBiblioteca.resources
+C:\Users\Usuario\Desktop\pryGarciaBiblioteca\pryGarciaBiblioteca\obj\Debug\pryGarciaBiblioteca.Properties.Resources.resources
+C:\Users\Usuario\Desktop\pryGarciaBiblioteca\pryGarciaBiblioteca\obj\Debug\pryGarciaBiblioteca.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\pryGarciaBiblioteca\pryGarciaBiblioteca\obj\Debug\pryGarciaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\pryGarciaBiblioteca\pryGarciaBiblioteca\obj\Debug\pryGarciaBiblioteca.exe
+C:\Users\Usuario\Desktop\pryGarciaBiblioteca\pryGarciaBiblioteca\obj\Debug\pryGarciaBiblioteca.pdb
